@@ -18,10 +18,13 @@
     "Lluis Agusti <hi@llu.lu>"
   ],
   "dependencies": {
+    "mongoose": "^7.2.0",
+    "mongoose-paginate-v2": "^1.7.1",
     "next": "latest",
     "next-auth": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "request-ip": "^3.3.0"
   },
   "devDependencies": {
     "@types/node": "^18.16.2",
